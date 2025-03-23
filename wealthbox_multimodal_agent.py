@@ -10,7 +10,7 @@ from agno.tools import Toolkit
 from agno.utils.log import logger
 
 # Wealthbox API configuration
-WEALTHBOX_API_TOKEN = "9b2bae00de1641f9a119cae355f55af9"
+WEALTHBOX_API_TOKEN = "XXX"
 WEALTHBOX_API_BASE_URL = "https://api.crmworkspace.com/v1"
 
 
